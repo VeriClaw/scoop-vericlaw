@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/vericlaw/vericlaw/releases/download/v0.1.0/vericlaw-v0.1.0-windows-x86_64.zip",
-            "hash": "154710ff884987b28da6d07f359740563a51936b555e66ab3eb53c613299cb81"
+            "hash": "8ed695303bbf8beaed231decdcea77e53cf89a6ec5839ee226acc1d103214f9d"
         }
     },
     "bin": "vericlaw.exe",
