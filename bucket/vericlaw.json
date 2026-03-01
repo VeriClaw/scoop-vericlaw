@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "0.1.0",
     "description": "Formally verified AI agent runtime built with Ada/SPARK",
     "homepage": "https://github.com/vericlaw/vericlaw",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vericlaw/vericlaw/releases/download/v1.0.0/vericlaw-v1.0.0-windows-x86_64.zip",
-            "hash": "df14f806befb940adcf61cf4c4f523083b14e23e7065a852ca0e43c52b072c59"
+            "url": "https://github.com/vericlaw/vericlaw/releases/download/v0.1.0/vericlaw-v0.1.0-windows-x86_64.zip",
+            "hash": "154710ff884987b28da6d07f359740563a51936b555e66ab3eb53c613299cb81"
         }
     },
     "bin": "vericlaw.exe",
